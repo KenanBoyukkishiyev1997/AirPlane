@@ -1,0 +1,44 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	display: flex;
+	border: 5px solid #fff;
+    height: 537px;
+}
+
+header .plane p{
+	width: 22%;
+
+}
+
+    
+
+header .left img{
+	margin-left: 70px;
+
+}
+header .footer {
+	margin-top: 57px;
+
+}
+
+
+header .bottom img{
+	margin-top: 12%;
+    margin-left: 7%;
+
+}
+    
+.contenuer{
+	width: 80%;
+	margin:0 auto ;
+}
+
+body{
+	background: url(../Img/plane.png) no-repeat;
+	background-size:100%;
+}
+
